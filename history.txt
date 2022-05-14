@@ -1,0 +1,76 @@
+    1  pwd
+    2  ls
+    3  cd Desktop/
+    4  ls
+    5  cd projects/
+    6  mkdir html-css-js-combo
+    7  cd html-css-js-combo/
+    8  git init
+    9  git branch html
+   10  git branch
+   11  mkdir img
+   12  ls
+   13  git branch
+   14  cd ../
+   15  cd ../../
+   16  cd -
+   17  cd html-css-js-combo/
+   18  clear
+   19  cd ../
+   20  pwd
+   21  cd ../
+   22  cd ../
+   23  cd Downloads/
+   24  clear
+   25  ls
+   26  mv benin-ringroad.jpg kano.jpg lagos-skyline.jpg national_theatre.jpg Tourist-Attractions-in-Lagos-1.jpg ../Desktop/projects/html-css-js-combo/img/
+   27  cd ../Desktop/projects/html-css-js-combo/img/
+   28  ls
+   29  clear
+   30  git status
+   31  cd ../
+   32  git status
+   33  git add -A
+   34  git status
+   35  git branch
+   36  git branch -a
+   37  git branch
+   38  touch index.html style.css script.js
+   39  ls
+   40  git add index.html 
+   41  git add .
+   42  git commit -m "Added files for the project"
+   43  cd img/
+   44  touch sample.txt
+   45  ls
+   46  cd ../
+   47  clear
+   48  ls -a
+   49  cd img/
+   50  git add -A
+   51  cd ../
+   52  git status
+   53  git commit -m "Added a text file"
+   54  git status
+   55  clear
+   56  git branch html
+   57  git branch
+   58  git checkout html
+   59  code .
+   60  cd /
+   61  ls
+   62  clear
+   63  cd -
+   64  ls
+   65  git add .
+   66  git commit -m "Added to index.html file"
+   67  clear
+   68  git branch -a
+   69  git checkout master
+   70  git branch -a
+   71  git merge html
+   72  clear
+   73  git branch css
+   74  git branch -a
+   75  git checkout css
+   76  history|cat>history.txt
